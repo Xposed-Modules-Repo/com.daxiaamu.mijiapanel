@@ -2,13 +2,13 @@
 
 使米家 APP 在手机上也可以显示中控入口和开启中控模式。
 
-已在米家 11.5.705 测试通过。
+已在米家 APP 11.5.705 测试通过。
 
 功能：
 
 - 保持米家设置中的“全屋中控”入口可见，但不会自动开启或进入中控模式。
 - 使用 Modern Xposed API 102。
-- 通过 `META-INF/xposed/scope.list` 自动推荐并同步唯一作用域 `com.xiaomi.smarthome`。
+- 自动推荐并同步唯一作用域 `com.xiaomi.smarthome`。
 
 ## 使用
 
