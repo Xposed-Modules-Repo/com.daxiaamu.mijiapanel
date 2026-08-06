@@ -23,4 +23,4 @@
 
 ## 许可证
 
-本项目以 GNU General Public License v3.0 或更高版本（`GPL-3.0-or-later`）发布，详见 [LICENSE](LICENSE)。
+本项目以 GNU General Public License v3.0 或更高版本（`GPL-3.0-or-later`）发布，详见 [LICENSE](https://github.com/daxiaamu/mijiapanel/blob/main/LICENSE)。
